@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/fondo_login.xml" value="0.3675" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_box.xml" value="0.231" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_fondologin.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_line.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_line1.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_login.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/loginfondo.xml" value="0.25" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/loginformulario.xml" value="0.3095" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/txvcorreo.xml" value="0.296" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

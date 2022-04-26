@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MindPerformance</string>
+    <string name="logo">Logo</string>
+    <string name="loginmenu">LoginMenu</string>
+    <string name="lblcorreo">Correo Electronico</string>
+    <string name="lblcontraseña">Contraseña</string>
+    <string name="hintcorreo">ejemplo@gmail.com</string>
+    <string name="hintcontraseña">**********************************</string>
+    <string name="lblolvidastecontraseña">¿Olvidaste tu contraseña?</string>
+    <string name="btniniciarsesion">INICIAR SESIÓN</string>
+    <string name="imgseparador"></string>
+    <string name="btnfacebook">Facebook</string>
+    <string name="btngoogle">Google</string>
+    <string name="lblcuentanueva">¿No tienes cuenta? ¡CREA UNA!</string>
+</resources>
