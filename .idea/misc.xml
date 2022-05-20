@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable-v23/spash_background.xml" value="0.301" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/fondo_login.xml" value="0.3675" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_boton_iniciar_sesion.xml" value="0.1645" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_box.xml" value="0.231" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_box_black.xml" value="0.2785" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_box_fill_cian.xml" value="0.275" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_box_rectangle_black.xml" value="0.2785" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_cabecera.xml" value="0.1875" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_fondologin.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_header.xml" value="0.196" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_headermenu.xml" value="0.29" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_line.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_line1.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_login.xml" value="0.309" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_main.xml" value="0.3045" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_menu.xml" value="0.1415" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1705" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1705" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/ic_or.xml" value="0.1645" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/loginfondo.xml" value="0.25" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/loginformulario.xml" value="0.3095" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/selector.xml" value="0.1" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/side_nav_bar.xml" value="0.1705" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/spash_background.xml" value="0.297" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/splashscreen.xml" value="0.3635" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/drawable/txvcorreo.xml" value="0.296" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_cursomain.xml" value="0.21396054628224584" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_cursos_main.xml" value="0.21699544764795145" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_drawermain.xml" value="0.26403641881638845" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_splash.xml" value="0.21661608497723825" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_user.xml" value="0.5" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/activity_user_settings.xml" value="0.18095599393019726" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/app_bar_main.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/content_cursos_main.xml" value="0.26707132018209406" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/content_drawer_menu.xml" value="0.22534142640364188" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/drawer_header.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/drawer_toolbar.xml" value="0.22230652503793627" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/fragment_first.xml" value="0.13732928679817905" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/fragment_second.xml" value="0.13732928679817905" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/item_practica.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/user.xml" value="0.21396054628224584" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/layout/user_settings.xml" value="0.5" />
+        <entry key="..\:/Android-projects/MindPerformance/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/activity_drawermain.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/activity_homecursodoc.xml" value="0.22" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/item_practica.xml" value="0.33" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/layout/nav_header_main.xml" value="0.21661608497723825" />
+        <entry key="..\:/Android-projects/MindPerformancev2/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

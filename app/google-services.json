@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39825416353",
+    "project_id": "mindperformance-2e77d",
+    "storage_bucket": "mindperformance-2e77d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39825416353:android:853fccf9899036f6d650e0",
+        "android_client_info": {
+          "package_name": "ucv.edu.pe.mindperformance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39825416353-3tjbkrfio0chkifnk3882hrpmh16l2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbzhdvfJQbW32ViC1G54IQfdRUlBo71JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39825416353-3tjbkrfio0chkifnk3882hrpmh16l2kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

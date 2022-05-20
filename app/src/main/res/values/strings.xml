@@ -1,0 +1,39 @@
+<resources>
+    <!-- STRING PARA LOGIN -->
+    <string name="app_name">MindPerformance</string>
+    <string name="logo">Logo</string>
+    <string name="loginmenu">LoginMenu</string>
+    <string name="lblcorreo">Correo Electronico</string>
+    <string name="lblcontraseña">Contraseña</string>
+    <string name="hintcorreo">ejemplo@gmail.com</string>
+    <string name="hintcontraseña">**********************************</string>
+    <string name="lblolvidastecontraseña">¿Olvidaste tu contraseña?</string>
+    <string name="btniniciarsesion">INICIAR SESIÓN</string>
+    <string name="imgseparador">separador</string>
+    <string name="btnfacebook">Facebook</string>
+    <string name="btngoogle">Google</string>
+    <string name="lblcuentanueva">¿No tienes cuenta? ¡CREA UNA!</string>
+    <!-- STRING PARA DRAWER MENU-->
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="imgcurso">curso</string>
+    <string name="title_activity_cursos_main">cursos_main</string>
+    <!-- Strings user settings -->
+    <string name="btnatras">atras</string>
+
+    <string-array name="sexo_array">
+        <item>Seleccionar</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
